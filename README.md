@@ -1,4 +1,4 @@
-### Projeto Vsco2 em Angular
+### Projeto Vsco2 em Angular - Em Andamento
 
 🔗 https://emesdev.github.io/vsco2-Angular/profile
 
