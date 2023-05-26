@@ -4,20 +4,6 @@
 
 # About me
 
-## Hello! My name is Vinnicius and I am a student in the 5th period of Computer Science.
-
-Currently, I am focusing on developing my programming skills and acquiring knowledge in technologies related to my field of study. I am always looking for new challenges and projects to improve my skills.
-
-## Skills
-
-Here are some of the skills and technologies I have knowledge of:
-
-- **Programming Languages:** TypeScript, JavaScript, Java.
-- **Front-end Technologies:** HTML, CSS, JavaScript, TypeScript, Angular.
-<!-- - **Back-end Technologies:** Node.js, Express, Django, Flask .
-- **Database:** MySQL, PostgreSQL, MongoDB , MSFT SQLServer.
-- **Tools:** Git, GitHub, Docker, VS Code.
-- **Machine Learning and Data Science:** Pandas, Seaborn , TensorFlow, Keras, PyTorch. -->
 
 ## Contact
 
@@ -34,5 +20,4 @@ Feel free to contact me to discuss projects, ideas, or just to exchange knowledg
 <div>
 <a href="https://github.com/EmesDev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmesDev&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmesDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
