@@ -1,6 +1,9 @@
-### Projeto Vsco2 em Angular - Em Andamento
 
-🌟 Meu APP mobile para gerenciamento de fichas e mesas de RPG <br />
+# My Projects
+
+
+
+🌟 My mobile APP for managing chips and RPG tables <br />
 🔗 https://emesdev.site
 <br />
 <br />
@@ -9,6 +12,11 @@
  <br />
 
 # About me
+I am a full stack developer with almost 2 years of experience in web development. I am passionate about technology and believe it can be used to revolutionize people's lives. I have experience with a variety of technologies, including TypeScript, JavaScript, Java, Angular, Node.js, SpringBoot and Sql.
+<br />
+<br />
+
+I am always looking to stay up-to-date and learn new things. I believe that evolution comes from hard work, study, learning, and inspiration from the people around me. I am always looking for new opportunities to develop my skills and contribute to the development of innovative projects.
 
 
 ## Contact
