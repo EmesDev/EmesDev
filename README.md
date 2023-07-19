@@ -1,10 +1,12 @@
 ### Projeto Vsco2 em Angular - Em Andamento
 
-🌟 Meu APP mobile para gerenciamento de fichas e mesas de RPG
+🌟 Meu APP mobile para gerenciamento de fichas e mesas de RPG <br />
 🔗 https://emesdev.site
-
-🌟 Clone VSCO
+<br />
+<br />
+🌟 Clone VSCO  <br />
 🔗 https://emesdev.github.io/vsco2-Angular/profile
+ <br />
 
 # About me
 
