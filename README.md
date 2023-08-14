@@ -33,7 +33,9 @@ Feel free to contact me to discuss projects, ideas, or just to exchange knowledg
 
 <div>
 <a href="https://github.com/EmesDev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmesDev&layout=compact&langs_count=7&theme=dracula"/>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emesdev&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmesDev&layout=compact&langs_count=7&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=emesdev&exclude_repo=github-readme-stats)"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmesDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
@@ -42,7 +44,6 @@ Feel free to contact me to discuss projects, ideas, or just to exchange knowledg
 <!--       
       <div>
 <a href="https://github.com/username">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emesdev&exclude_repo=github-readme-stats,anuraghazra.github.io)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emesdev&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div> -->
