@@ -2,7 +2,6 @@
 # My Projects
 
 
-
 🌟 My mobile APP for managing chips and RPG tables <br />
 🔗 https://emesdev.site
 <br />
@@ -33,13 +32,11 @@ Feel free to contact me to discuss projects, ideas, or just to exchange knowledg
 
 <div>
 <a href="https://github.com/EmesDev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmesDev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-five-gold-87.vercel.app/api/top-langs/?username=EmesDev&layout=compact&langs_count=7&theme=dark"/>
+
+<a href="https://github.com/EmesDev">
+<img height="180em" src="https://github-readme-stats-five-gold-87.vercel.app/api?username=EmesDev&show_icons=true&theme=dark"/>
 </div>
 
 
-<!--       
-      <div>
-<a href="https://github.com/vnniciusg">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emesdev&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div> -->
+
