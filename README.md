@@ -6,7 +6,7 @@
 🔗 https://emesdev.site
 <br />
 <br />
-🌟 Clone VSCO  <br />
+🌟 Clone VSCO <br />
 🔗 https://emesdev.github.io/vsco2-Angular/profile
  <br />
 
