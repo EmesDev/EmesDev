@@ -17,6 +17,15 @@ I am a full stack developer with almost 2 years of experience in web development
 
 I am always looking to stay up-to-date and learn new things. I believe that evolution comes from hard work, study, learning, and inspiration from the people around me. I am always looking for new opportunities to develop my skills and contribute to the development of innovative projects.
 
+## Projects
+<div>
+<a href="https://github.com/EmesDev">
+<img height="100em" src="https://github-readme-stats-five-gold-87.vercel.app/api/pin/?username=EmesDev&repo=vsco2-Angular"/>
+ <a href="https://github.com/EmesDev">
+<img height="100em" src="https://github-readme-stats-five-gold-87.vercel.app/api/pin/?username=EmesDev&repo=laravel-testing"/>
+</div>
+
+
 
 ## Contact
 
