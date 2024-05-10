@@ -1,7 +1,6 @@
 
 # My Projects
 
-
 🌟 My mobile APP for managing chips and RPG tables <br />
 🔗 https://emesdev.site
 <br />
@@ -19,13 +18,11 @@ I am always looking to stay up-to-date and learn new things. I believe that evol
 
 ## Projects
 <div>
-<a href="https://github.com/EmesDev">
-<img height="100em" src="https://github-readme-stats-five-gold-87.vercel.app/api/pin/?username=EmesDev&repo=vsco2-Angular"/>
  <a href="https://github.com/EmesDev">
-<img height="100em" src="https://github-readme-stats-five-gold-87.vercel.app/api/pin/?username=EmesDev&repo=laravel-testing"/>
+ <img height="100em" src="https://github-readme-stats-five-gold-87.vercel.app/api/pin/?username=EmesDev&repo=AngularNginxDockerTemplate"/>
+ <a href="https://github.com/EmesDev">
+ <img height="100em" src="https://github-readme-stats-five-gold-87.vercel.app/api/pin/?username=EmesDev&repo=vsco2-Angular"/>
 </div>
-
-
 
 ## Contact
 
@@ -34,8 +31,7 @@ You can reach out to me through the following platforms:
 <a href="https://www.linkedin.com/in/emesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/emesdevs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato.emersonfranco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-      
+</div>      
 
 Feel free to contact me to discuss projects, ideas, or just to exchange knowledge about programming and technology. Thank you for visiting my profile!
 
