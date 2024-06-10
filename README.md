@@ -1,14 +1,3 @@
-
-# My Projects
-
-🌟 My mobile APP for managing chips and RPG tables <br />
-🔗 https://emesdev.site
-<br />
-<br />
-🌟 Clone VSCO <br />
-🔗 https://emesdev.github.io/vsco2-Angular/profile
- <br />
-
 # About me
 I am a full stack developer with almost 2 years of experience in web development. I am passionate about technology and believe it can be used to revolutionize people's lives. I have experience with a variety of technologies, including TypeScript, JavaScript, Java, Angular, Node.js, SpringBoot and Sql.
 <br />
